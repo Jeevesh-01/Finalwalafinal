@@ -46,7 +46,7 @@ button:hover, .option:hover {
 }
 
 .previous-button:hover {
-  background: #7f8c8d; /* A slightly darker gray on hover */
+  background: black; /* A slightly darker gray on hover */
 }
 
 input, textarea {
